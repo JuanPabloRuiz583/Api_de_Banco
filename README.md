@@ -33,3 +33,7 @@ API de um banco digital que permite realizar operações como criação de conta
    ```bash
    git clone https://github.com/seu-usuario/ApiBank.git
    cd ApiBank
+
+2. Ao rodar localmente, voce pode acessar a documentação da api aqui:
+http://localhost:8080/swagger-ui/index.html
+![tela](https://github.com/user-attachments/assets/a7d24196-1804-45b6-954c-79ed906a173d)
