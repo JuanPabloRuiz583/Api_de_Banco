@@ -1,4 +1,4 @@
-# ApiBank
+# MyBankAPI
 
 API de um banco digital que permite realizar operações como criação de contas, depósitos, saques, transferências via PIX, e muito mais. Este projeto foi desenvolvido utilizando **Java**, **Spring Boot**, e **H2 Database**.
 
